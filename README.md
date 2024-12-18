@@ -19,7 +19,7 @@ Note
 * 📌 The activation option is currently not working in the script, use the Freeze trial option to lock the 30-day trial period for the lifetime.
 
 # Method 1 - PowerShell
-(Recommended)
+**(Recommended)**
 
 * Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 * Copy-paste the below code and press enter *iex(irm is.gd/idm_reset)
