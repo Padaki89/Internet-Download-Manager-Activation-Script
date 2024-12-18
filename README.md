@@ -1,22 +1,22 @@
 # Internet-Download-Manager-Activation-Script
 
-An open-source tool to activate and reset the trial of Internet Download Manager
+* An open-source tool to activate and reset the trial of Internet Download Manager
 
 # Features
-IDM freeze trial and activation with registry key lock method
-Activation and trial persist even after installing IDM updates
-IDM trial reset
-Fully open source
-Based on the transparent batch script
+* IDM freeze trial and activation with registry key lock method
+* Activation and trial persist even after installing IDM updates
+* IDM trial reset
+* Fully open source
+* Based on the transparent batch script
 
 # IAS Latest Release
-Last Release - v1.2 (18-Dec-2024) GitHub
+* Last Release - v1.2 (18-Dec-2024) GitHub
 
 # Download / How to use it?
-First fresh install Internet Download Manager. Make sure previous cracks/patches are removed/uninstalled if there are any. After that follow the below steps to activate it.
+* First fresh install Internet Download Manager. Make sure previous cracks/patches are removed/uninstalled if there are any. After that follow the below steps to activate it.
 
 Note
-📌 The activation option is currently not working in the script, use the Freeze trial option to lock the 30-day trial period for the lifetime.
+* 📌 The activation option is currently not working in the script, use the Freeze trial option to lock the 30-day trial period for the lifetime.
 
 # Method 1 - PowerShell
 (Recommended)
